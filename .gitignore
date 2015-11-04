@@ -1,0 +1,10 @@
+tmp
+.history
+.target
+.settings
+bin
+.classpath
+.project
+.checkstyle
+.cache
+.DS_Store
