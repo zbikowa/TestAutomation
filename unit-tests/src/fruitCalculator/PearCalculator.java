@@ -67,8 +67,8 @@ public class PearCalculator {
 	}
 
 	/**
-	 * This entire method can be reduced to one liner - our automated tests can be 
-	 * our validation of refactoring was successful.
+	 * This entire method can be reduced to one-liner - our automated tests can be 
+	 * our validation if refactoring was successful.
 	 * @category This uses Java 8 structures.
 	 */
 //	public long countPears(String[] fruits) {
